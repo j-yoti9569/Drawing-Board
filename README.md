@@ -1,14 +1,17 @@
 # 🧑‍🏫 **White Board – Interactive Drawing Canvas**
-**A simple and responsive whiteboard application built using HTML, CSS, and JavaScript.**  
+**A sleek and responsive whiteboard application built using HTML, CSS, and JavaScript.**  
 Draw, sketch, and express your ideas freely in the browser — no setup required!
 
 ---
 
 ## ✨ **Features**
-- 🖌️ **Freehand drawing** with mouse or touch
+- 🖌️ **Freehand drawing** with mouse 
 - 🎨 **Color palette** to choose brush colors
-- 📏 **Brush size control** for precision
+- 📏 **Pen size control** for precision drawing
+- 🔄 **Undo and Redo** functionality to manage strokes
 - 🧼 **Clear canvas** with one click
+  
+
 
 ---
 
@@ -17,5 +20,7 @@ Draw, sketch, and express your ideas freely in the browser — no setup required
 |------------|---------|
 | **HTML**   | Structure of the canvas and controls |
 | **CSS**    | Styling and layout |
-| **JavaScript** | Drawing logic and user interaction |
+| **JavaScript** | Drawing logic, undo/redo, and user interaction
+
+---
 
